@@ -7,6 +7,7 @@
 * [Project Pipeline](#project-pipeline)
 * [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
+* [Conclusion](#Conclusion)
 
 <!-- You can include any other section that is pertinent to your problem -->
 

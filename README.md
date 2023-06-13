@@ -59,7 +59,7 @@ You are required to build a multiclass classification model using a custom convo
 - Model Building & training on the rectified class imbalance data :
   - Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model, rescale images to normalize pixel values between (0,1).
   - Choose an appropriate optimiser and loss function for model training
-  - Train the model for ~30 epochs
+  - Train the model for ~50 epochs
   - Write your findings after the model fit, see if the issues are resolved or not?
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->

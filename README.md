@@ -87,7 +87,13 @@ You are required to build a multiclass classification model using a custom convo
 - https://learn.upgrad.com/
 - https://www.tensorflow.org/
 
+## Conclusion
+- As the training accuracy increases linearly over time, where as the validation accuracy increases in training process.
+- As the training loss decreases with epochs the validation loss also decreases.
+- The plots show that gap between training accuracy and validation accuracy have decreased significantly from previous model, and it has achieved around 75% accuracy on the validation set.
+- The difference in accuracy between training and validation accuracy is very less
 
+Class rebalancing not only got rid of overfitting it also improved the accuracy from 55% to 75-80 %.
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->

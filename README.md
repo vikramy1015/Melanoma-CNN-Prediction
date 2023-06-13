@@ -81,7 +81,6 @@ You are required to build a multiclass classification model using a custom convo
 
 ## Acknowledgements
 - This project was group case study for an online advance course.
-- https://www.geeksforgeeks.org/
 - https://seaborn.pydata.org/
 - https://plotly.com/
 - https://pandas.pydata.org/

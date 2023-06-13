@@ -74,6 +74,7 @@ You are required to build a multiclass classification model using a custom convo
 - sklearn
 - statsmodel
 - tensorflow 
+- keras
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
